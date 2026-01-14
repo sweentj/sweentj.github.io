@@ -72,10 +72,32 @@
   <div class="timeline-item">
     <span class="timeline-dot"></span>
     <div class="timeline-header">
-      <span class="timeline-org">University of Oxford</span>
+      <span class="timeline-org">McMaster University</span>
       <span class="timeline-role">Master of Engineering</span>
-      <span class="timeline-dates">Sep 2018 – Sep 2022</span>
+      <span class="timeline-dates">Sep 2020 – Dec 2021</span>
     </div>
-    <div class="timeline-meta">First Class • Academic Scholarship</div>
+    <div class="timeline-meta"> Contributed to Breast Cancer Imaging Prototype </div>
   </div>
+
+  <div class="timeline-item">
+    <span class="timeline-dot"></span>
+    <div class="timeline-header">
+      <span class="timeline-org">Stellantis Automobiles (Formerly Fiat Chrysler) </span>
+      <span class="timeline-role">Hybrid Controls Engineer</span>
+      <span class="timeline-dates">Jun 2019 – Jul 2020</span>
+    </div>
+    <div class="timeline-meta"> Auburn Hills, MI • On-site </div>
+    <div class="timeline-meta"> Developed EV controls software • enabled EV charging with Amazon Alexa </div>
+  </div>
+
+  <div class="timeline-item">
+    <span class="timeline-dot"></span>
+    <div class="timeline-header">
+      <span class="timeline-org">McMaster University</span>
+      <span class="timeline-role">Bachelor of Engineering</span>
+      <span class="timeline-dates">Sep 2014 – Jun 2019</span>
+    </div>
+    <div class="timeline-meta"> Experiential Superstar for volunteer work • Served as Team Principal of McMaster Solar Car Project </div>
+  </div>
+
 </div>
