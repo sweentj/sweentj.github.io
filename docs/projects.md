@@ -3,6 +3,26 @@
 <div class="project-grid">
   <article class="project-card">
     <div class="project-media">
+      <img src="assets/water_leak_sensor.png" alt="Wireless IoT Water Leak Sensor" loading="lazy">
+    </div>
+    <div class="project-body">
+      <div class="project-kicker">Embedded Systems | Wireless Communications | LoRa</div>
+      <h3>Wireless IoT Water Leak Sensor</h3>
+      <p>Designed and built a wireless water leak sensor as a reference design for clients</p>
+      <ul class="project-highlights">
+        <li>Routed 4-layer PCB with Altium Designer then assembled and tested prototype.</li>
+        <li>Wrote firmware in embedded C using FreeRTOS stack. Firmware implemented multipe tasks for communications, application layer and watchdog.</li>
+        <li>Verified operation through bench measurments and confirmed +3 year battery life.</li>
+      </ul>
+      <div class="project-tags">
+        <span class="tag tag-embedded">Embedded C</span>
+        <span class="tag tag-power">FreeRTOS</span>
+        <span class="tag tag-pcb">PCB Design</span>
+      </div>
+    </div>
+  </article>
+  <article class="project-card">
+    <div class="project-media">
       <img src="assets/solar_car_battery_management_system.png" alt="Lithium-ion battery management system PCB prototype" loading="lazy">
     </div>
     <div class="project-body">
